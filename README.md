@@ -1,1 +1,1 @@
-# staircasemethod
+# Labinpsychology
